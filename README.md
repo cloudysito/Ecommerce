@@ -1,12 +1,6 @@
 # Ecommerce Aura - Proyecto de Aplicaciones Web
 
-Plataforma de comercio electrónico desarrollada como proyecto final para la asignatura de Aplicaciones Web. Este sistema permite a los usuarios gestionar sus cuentas, navegar por un catálogo de productos, realizar compras seguras con métodos de pago simulados y gestionar pedidos.
-
-## 👥 Integrantes del Equipo
-* **Nombre:** Emiliano Márquez Esquer - **ID:** 00000252714
-* **Nombre:** Maria José Enriquez Lara - **ID:** 00000252337
-
-**Temática de la tienda:** Ecommerce 
+Plataforma de comercio electrónico. Este sistema permite a los usuarios gestionar sus cuentas, navegar por un catálogo de productos, realizar compras seguras con métodos de pago simulados y gestionar pedidos.
 
 ---
 
